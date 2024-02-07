@@ -7,6 +7,11 @@ molecool
 
 modeling packages
 
+### Installation instructioons
+``` 
+python -e .
+```
+
 ### Copyright
 
 Copyright (c) 2024, exlonk gil
