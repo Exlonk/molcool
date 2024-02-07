@@ -5,6 +5,8 @@
 
 Welcome to molecool's documentation!
 =========================================================
+This documentations is a trial to understand how to do the
+documentation of the packages
 
 .. toctree::
    :maxdepth: 2
@@ -12,7 +14,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
-
+   about
 
 
 Indices and tables
